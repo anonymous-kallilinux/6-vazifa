@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+
+body {
+    background-color: #85ADD4;
+}
+
+.stroll {
+    color: #85ADD4;
+}
+
+p {
+    color: aqua;
+}
+
+.shake {
+    color: rgb(16, 16, 218);
+    font-size: 50px;
+}
+
+.card {
+
+    padding: 50px;
+}
